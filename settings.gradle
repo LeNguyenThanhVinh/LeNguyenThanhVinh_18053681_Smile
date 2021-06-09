@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "LeNguyenThanhVinh_18053681_LT_Firebase_21_5"

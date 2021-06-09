@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "803019231666",
+    "project_id": "vinhlt2105",
+    "storage_bucket": "vinhlt2105.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803019231666:android:f532c0f62e4f385ae754ab",
+        "android_client_info": {
+          "package_name": "com.example.lenguyenthanhvinh_18053681_lt_firebase_21_5"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803019231666-bik53j7f9but9u3v3fan2dsq1bir8nbl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgVcOkKM37MCCFRvVUY3PgT8EfKE9hRMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803019231666-bik53j7f9but9u3v3fan2dsq1bir8nbl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
